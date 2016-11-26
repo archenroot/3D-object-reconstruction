@@ -1,0 +1,43 @@
+	image: image {
+		data: 0
+		length: 1046145
+		nbands: 3
+		ncolors: 3
+		nrows: 485
+		ncolumns: 719
+		repn: ubyte
+		LIVE_PACKING: 3
+		LIVE_ROWS: 486
+		LIVE_COLS: 720
+		RES: 1
+		R: 0
+		C: 0
+		t_sec: 0
+		t_usec: 0
+		GLWIN: 159383555
+		GLCON: 271585712
+		GLDPY: 271298408
+		color_interp: rgb
+	}
+	camera: camera {
+		nsels_x: 720
+		nsels_y: 486
+		npixels_x: 720
+		npixels_y: 486
+		sel_size_x: 0.011733333332999999
+		sel_size_y: 0.012999999999999999
+		pixel_size_x: 0.011733333332999999
+		pixel_size_y: 0.012999999999999999
+		rotation_x: 2.9918086373476318
+		rotation_y: -0.61994103390837463
+		rotation_z: -3.0543932403589422
+		translation_x: -86.962126769204033
+		translation_y: -11.179886259181192
+		translation_z: 1657.482340850624
+		focal_length: 67.39167952035919
+		image_center_x: 607.4035707182403
+		image_center_y: 54.977647959353405
+		radial_distortion: 7.3865184297663829e-06
+		scale_x: 0.99455695681524814
+		camera_name: "Sony DCR-VX1000"
+	}
