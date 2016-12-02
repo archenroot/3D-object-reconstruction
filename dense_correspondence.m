@@ -1,8 +1,10 @@
-function [ pts1, pts2 ] = dense_correspondence( im1, im2, F)
+function [ p1,p2 ] = dense_correspondence( im1, im2, F)
 
 %       im1 - Image 1
 %       im2 - Image 2
 %       F - Fundamental Matrix between im1 and im2
+%       Outputs the dense correspondences between the images
+%       p1 correspondes to correspondences in the first image and p2 corresponds to correspondences in the second image
 p1=[];
 row=size(im1,1);
 col=size(im2,1);
